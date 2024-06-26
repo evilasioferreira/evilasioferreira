@@ -1,16 +1,26 @@
-## Olá sou Evilásio! 👋
+# Olá, eu sou Evilásio 👋
 
-<!--
-**evilasioferreira/evilasioferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu repositório no GitHub!
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em transição de carreira para a área de programação e atualmente estou me dedicando a aprender e desenvolver minhas habilidades para me tornar um Desenvolvedor Full Stack. Tenho um grande interesse por tecnologia e sou apaixonado por resolver problemas através da programação.
+
+## Tecnologias e Ferramentas
+
+Atualmente, estou focado no estudo das seguintes tecnologias:
+
+- **Python**
+- **Flask**
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+
+## Projetos
+
+Aqui você encontrará alguns dos meus projetos e exercícios enquanto avanço na minha jornada de aprendizado. Sinta-se à vontade para explorar, sugerir melhorias ou colaborar!
+
+Agradeço pela visita e espero que goste do que encontrar por aqui!
+
+
