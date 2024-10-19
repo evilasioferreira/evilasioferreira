@@ -18,4 +18,10 @@ Aqui você encontrará alguns dos meus projetos e exercícios enquanto avanço n
 
 Agradeço pela visita e espero que goste do que encontrar por aqui!
 
+<div>
+  <a href="https://github.com/evilasioferreira">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/username=evilasioferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilasioferreira&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
 
